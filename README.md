@@ -11,7 +11,6 @@
 
 You have a bunch of decorations for various holidays organized by season.
 
-```ruby
 holiday_supplies = {
   :winter => {
     :christmas => ["Lights", "Wreath"],
